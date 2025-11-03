@@ -31,7 +31,6 @@
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.7.0</version>
-    <scope>test</scope>
 </dependency>
 
 <dependency>
@@ -48,12 +47,6 @@
 </dependency>
 
 
-
-   	<dependency>
-   		<groupId>gg</groupId>
-   		<artifactId>ms</artifactId>
-   		<version>0.0.1-SNAPSHOT</version>
-   	</dependency>
    </dependencies><build>
     <plugins>
         <!-- Compiler plugin -->
@@ -80,4 +73,7 @@
         </plugin>
     </plugins>
 </build>
+
 </project>
+
+
